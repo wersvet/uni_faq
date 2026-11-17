@@ -1,0 +1,482 @@
+[
+  {
+    "id": "official-001",
+    "question": "Сколько стоит бакалавриат AITU в 2026–2027 году?",
+    "answer": "В опубликованном прейскуранте 2026–2027 указано 2 500 000 тенге. Условия оплаты уточняйте по договору.",
+    "category": "Стоимость",
+    "source_url": "https://astanait.edu.kz/ru/bachelor",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-002",
+    "question": "Сколько лет длится бакалавриат?",
+    "answer": "На странице бакалавриата указан срок обучения 3 года.",
+    "category": "Обучение",
+    "source_url": "https://astanait.edu.kz/ru/bachelor",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-003",
+    "question": "На каком языке учатся бакалавры?",
+    "answer": "Бакалаврские программы представлены как обучение на английском языке.",
+    "category": "Обучение",
+    "source_url": "https://astanait.edu.kz/ru/bachelor",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-004",
+    "question": "Где находится университет AITU?",
+    "answer": "Адрес университета: Астана, проспект Мангилик Ел, 55/1, EXPO, блок C1.",
+    "category": "Контакты",
+    "source_url": "https://astanait.edu.kz/ru/bachelor",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-005",
+    "question": "Где посмотреть скидки и гранты на оплату обучения?",
+    "answer": "Раздел «Виды скидок» содержит ссылку на положение о грантах, скидках и порядке их предоставления.",
+    "category": "Стоимость",
+    "source_url": "https://astanait.edu.kz/ru/bachelor",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-006",
+    "question": "Какие направления есть в школе кибербезопасности?",
+    "answer": "В списке бакалаврских программ школы указаны Cybersecurity и Smart Security Technologies.",
+    "category": "Программы",
+    "source_url": "https://astanait.edu.kz/ru/bachelor",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-007",
+    "question": "Сколько стоит сдача AET?",
+    "answer": "Одна попытка AET стоит 3 000 тенге; каждая попытка оплачивается отдельно.",
+    "category": "Экзамены",
+    "source_url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-008",
+    "question": "Сколько попыток сдачи AET разрешено?",
+    "answer": "На официальной странице указаны две попытки сдачи AET.",
+    "category": "Экзамены",
+    "source_url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-009",
+    "question": "Из каких модулей состоит AET?",
+    "answer": "AET включает английский язык, а также основы компьютерных наук и логику.",
+    "category": "Экзамены",
+    "source_url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-010",
+    "question": "Сколько вопросов и времени в модулях AET?",
+    "answer": "В каждом из двух модулей — 50 вопросов и 60 минут.",
+    "category": "Экзамены",
+    "source_url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-011",
+    "question": "Какое оборудование нужно для AET?",
+    "answer": "Нужен компьютер или ноутбук с веб-камерой. Перед экзаменом изучите инструкции по онлайн-прокторингу.",
+    "category": "Экзамены",
+    "source_url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-012",
+    "question": "Где зарегистрироваться на AET?",
+    "answer": "На странице AET есть кнопка регистрации, ведущая на astanait.oes.kz. Доступные слоты открываются по месяцам.",
+    "category": "Экзамены",
+    "source_url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-013",
+    "question": "Сколько длится обучение в магистратуре?",
+    "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+    "category": "Магистратура",
+    "source_url": "https://astanait.edu.kz/ru/master",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-014",
+    "question": "Какие профильные предметы КТ для группы M094?",
+    "answer": "Для M094 указаны алгоритмы и структуры данных, а также базы данных.",
+    "category": "Магистратура",
+    "source_url": "https://astanait.edu.kz/ru/master",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-015",
+    "question": "Какие профильные предметы КТ для группы M072?",
+    "answer": "Для M072 указаны менеджмент и организация бизнеса.",
+    "category": "Магистратура",
+    "source_url": "https://astanait.edu.kz/ru/master",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-016",
+    "question": "Можно ли подать документы в магистратуру онлайн?",
+    "answer": "Первый этап — регистрация и загрузка документов через My DU Mobile. Для зачисления также необходима личная подача оригиналов.",
+    "category": "Магистратура",
+    "source_url": "https://astanait.edu.kz/ru/master",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-017",
+    "question": "Какой минимальный результат КТ для научно-педагогической магистратуры?",
+    "answer": "Для участия в конкурсе указаны минимум 75 из 150: иностранный язык — 25, каждая профильная дисциплина и готовность к обучению — по 7. Это не гарантия гранта.",
+    "category": "Магистратура",
+    "source_url": "https://astanait.edu.kz/ru/master",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-018",
+    "question": "Где узнать про комплексное тестирование КТ?",
+    "answer": "На странице магистратуры размещена ссылка на Национальный центр тестирования: testcenter.kz.",
+    "category": "Магистратура",
+    "source_url": "https://astanait.edu.kz/ru/master",
+    "checked_at": "2026-11-09",
+    "source_type": "official",
+    "review_status": "AI-assisted; requires team review before defense"
+  },
+  {
+    "id": "official-019",
+    "question": "Как долго можно учиться по обмену в AITU?",
+    "answer": "Для входящего обмена предлагаются один или два семестра.",
+    "category": "Входящий обмен",
+    "source_url": "https://astanait.edu.kz/ru/academic-mobility-foreign-citizens",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-020",
+    "question": "Какой английский нужен для входящего обмена в AITU?",
+    "answer": "Указаны IELTS 6, TOEFL iBT 72 или PBT 523, либо B (3.0) по английскому. При обучении на английском в родном вузе допустима справка международного офиса.",
+    "category": "Входящий обмен",
+    "source_url": "https://astanait.edu.kz/ru/academic-mobility-foreign-citizens",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-021",
+    "question": "Какой GPA нужен иностранному студенту для обмена в AITU?",
+    "answer": "Для входящего обмена указан GPA от 2,67 из 4,33; кандидат должен быть старше 18 лет и учиться очно.",
+    "category": "Входящий обмен",
+    "source_url": "https://astanait.edu.kz/ru/academic-mobility-foreign-citizens",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-022",
+    "question": "Кто выдвигает студента на входящий обмен в AITU?",
+    "answer": "Кандидатуру выдвигает университет-партнёр. Номинированный студент обращается по электронной почте в международный офис AITU.",
+    "category": "Входящий обмен",
+    "source_url": "https://astanait.edu.kz/ru/academic-mobility-foreign-citizens",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-023",
+    "question": "Какие расходы оплачивает студент по входящему обмену?",
+    "answer": "Обучение и вступительный взнос не оплачиваются. Проезд, виза, проживание, страховка, учебники и сопутствующие расходы остаются за студентом.",
+    "category": "Входящий обмен",
+    "source_url": "https://astanait.edu.kz/ru/academic-mobility-foreign-citizens",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-024",
+    "question": "На какой срок студент AITU может поехать по академической мобильности?",
+    "answer": "На странице исходящей мобильности описано обучение за рубежом в течение одного триместра без прерывания обучения в AITU.",
+    "category": "Исходящая мобильность",
+    "source_url": "https://astanait.edu.kz/ru/outg-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-025",
+    "question": "Какие документы нужны для исходящей академической мобильности?",
+    "answer": "Перечень включает официальный транскрипт, IELTS, рекомендацию преподавателя, копию паспорта и медицинскую справку 072/у для выезда за границу.",
+    "category": "Исходящая мобильность",
+    "source_url": "https://astanait.edu.kz/ru/outg-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-026",
+    "question": "Кто может участвовать в весеннем обмене AITU 2026–2027?",
+    "answer": "Опубликованный конкурс на весну 2026–2027 открыт для второго курса бакалавриата. Условия других конкурсов уточняются отдельно.",
+    "category": "Исходящая мобильность",
+    "source_url": "https://astanait.edu.kz/ru/outg-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-027",
+    "question": "Кто оплачивает поездку студента AITU по обмену?",
+    "answer": "Для отобранных участников указанного конкурса обучение бесплатное. Студент оплачивает визу, страховку, питание, перелёт и проживание.",
+    "category": "Исходящая мобильность",
+    "source_url": "https://astanait.edu.kz/ru/outg-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-028",
+    "question": "Что учитывают при равных баллах в конкурсе академической мобильности?",
+    "answer": "Страница перечисляет высокий GPA, результат по иностранному языку и социальные категории. Полный порядок следует проверить в положении по ссылке.",
+    "category": "Исходящая мобильность",
+    "source_url": "https://astanait.edu.kz/ru/outg-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-029",
+    "question": "Чем занимается офис регистратора AITU?",
+    "answer": "Офис ведёт регистрацию на дисциплины, присвоение и перезачёт кредитов, аттестацию и учёт учебных достижений.",
+    "category": "Офис регистратора",
+    "source_url": "https://astanait.edu.kz/ru/officeregistrar",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-030",
+    "question": "Куда обращаться по перезачёту академических кредитов?",
+    "answer": "Организация перезачёта освоенных кредитов относится к функциям офиса регистратора AITU.",
+    "category": "Офис регистратора",
+    "source_url": "https://astanait.edu.kz/ru/officeregistrar",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-031",
+    "question": "Кто отвечает за регистрацию на учебные дисциплины?",
+    "answer": "Политику регистрации студентов на дисциплины формирует офис регистратора AITU.",
+    "category": "Офис регистратора",
+    "source_url": "https://astanait.edu.kz/ru/officeregistrar",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-032",
+    "question": "Как связаться с офисом регистратора AITU?",
+    "answer": "На странице офиса указан телефон +7 7172 645728. Контакты сотрудников доступны по ссылке.",
+    "category": "Офис регистратора",
+    "source_url": "https://astanait.edu.kz/ru/officeregistrar",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-033",
+    "question": "Где находится главный офис-регистратор AITU?",
+    "answer": "Для главных офис-регистраторов на странице указан кабинет C1.1.271. Руководитель находится в C1.1.270.",
+    "category": "Офис регистратора",
+    "source_url": "https://astanait.edu.kz/ru/officeregistrar",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-034",
+    "question": "Какие комнаты есть в общежитии AITU?",
+    "answer": "На странице студенческого дома представлены комнаты на два, три или четыре человека, с кроватями, столами и шкафами.",
+    "category": "Общежитие",
+    "source_url": "https://astanait.edu.kz/ru/students-dormitory",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-035",
+    "question": "Можно ли готовить еду в общежитии AITU?",
+    "answer": "Готовить разрешено на специально оборудованных кухнях; приготовление пищи в жилых комнатах не предусмотрено правилами страницы.",
+    "category": "Общежитие",
+    "source_url": "https://astanait.edu.kz/ru/students-dormitory",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-036",
+    "question": "Есть ли прачечная в общежитии AITU?",
+    "answer": "Указаны комнаты со стиральными машинами, а также помещения для сушки и глажки белья.",
+    "category": "Общежитие",
+    "source_url": "https://astanait.edu.kz/ru/students-dormitory",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-037",
+    "question": "Есть ли Wi-Fi в студенческих домах AITU?",
+    "answer": "На странице сообщается о Wi-Fi во всех жилых комплексах.",
+    "category": "Общежитие",
+    "source_url": "https://astanait.edu.kz/ru/students-dormitory",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-038",
+    "question": "Где посмотреть результаты распределения мест в общежитии AITU?",
+    "answer": "На странице студенческого дома опубликованы отдельные ссылки на результаты рассмотрения заявок юношей и девушек. Наличие места проверяйте в актуальном списке.",
+    "category": "Общежитие",
+    "source_url": "https://astanait.edu.kz/ru/students-dormitory",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-039",
+    "question": "Есть ли военная кафедра в AITU?",
+    "answer": "Да. Кафедра готовит офицеров и сержантов запаса; поступление проходит по конкурсу.",
+    "category": "Военная кафедра",
+    "source_url": "https://astanait.edu.kz/ru/military-department",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-040",
+    "question": "Какие специальности есть на военной кафедре AITU?",
+    "answer": "На странице перечислены военная журналистика, кибербезопасность и операторы беспилотных летательных аппаратов.",
+    "category": "Военная кафедра",
+    "source_url": "https://astanait.edu.kz/ru/military-department",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-041",
+    "question": "Какие этапы отбора на военную кафедру AITU?",
+    "answer": "Отбор включает медицинское освидетельствование, профессионально-психологическое тестирование, физические нормативы и конкурс с учётом GPA.",
+    "category": "Военная кафедра",
+    "source_url": "https://astanait.edu.kz/ru/military-department",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-042",
+    "question": "Какие физические нормативы сдают на военную кафедру?",
+    "answer": "Указаны бег на 100 и 3000 метров и подтягивания. Актуальные нормативы и критерии проверяйте в документах кафедры.",
+    "category": "Военная кафедра",
+    "source_url": "https://astanait.edu.kz/ru/military-department",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-043",
+    "question": "Что проверяют на психологическом тестировании военной кафедры?",
+    "answer": "Страница описывает проверку мотивации, стрессоустойчивости, критического и логического мышления.",
+    "category": "Военная кафедра",
+    "source_url": "https://astanait.edu.kz/ru/military-department",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-044",
+    "question": "Есть ли визовая поддержка для иностранных студентов AITU?",
+    "answer": "AITU сообщает о консультациях и сопровождении по визовым процедурам при поступлении и прибытии. Оформление виз проходит через уполномоченные учреждения.",
+    "category": "Иностранным абитуриентам",
+    "source_url": "https://int.astanait.edu.kz/ru/inc-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-045",
+    "question": "Сколько стоит бакалавриат для иностранных студентов AITU?",
+    "answer": "На международной странице указано 5 000 USD за академический год. Это условия для иностранных абитуриентов; перед оплатой подтвердите действующий тариф.",
+    "category": "Иностранным абитуриентам",
+    "source_url": "https://int.astanait.edu.kz/ru/inc-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-046",
+    "question": "Сколько стоит магистратура для иностранных студентов AITU?",
+    "answer": "На международной странице указано 5 500 USD за учебный год. Актуальный тариф необходимо подтвердить при поступлении.",
+    "category": "Иностранным абитуриентам",
+    "source_url": "https://int.astanait.edu.kz/ru/inc-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-047",
+    "question": "Какие двойные дипломы доступны иностранным магистрантам AITU?",
+    "answer": "Указаны программы с Lawrence Technological University для Applied Data Analytics и FHDO для Computer Science and Engineering, для первого курса. Условия участия уточняйте отдельно.",
+    "category": "Иностранным абитуриентам",
+    "source_url": "https://int.astanait.edu.kz/ru/inc-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  },
+  {
+    "id": "official-048",
+    "question": "Где иностранному абитуриенту записаться на консультацию AITU?",
+    "answer": "На международной странице есть форма бронирования консультации: имя, email и телефон. Выберите консультацию по поступлению.",
+    "category": "Иностранным абитуриентам",
+    "source_url": "https://int.astanait.edu.kz/ru/inc-academ-mobility",
+    "checked_at": "2026-11-10",
+    "source_type": "official",
+    "review_status": "AI-assisted source review; team review pending"
+  }
+]

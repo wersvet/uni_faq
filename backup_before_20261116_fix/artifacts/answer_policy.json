@@ -1,0 +1,7 @@
+{
+  "threshold": -3.75,
+  "fingerprint": "84fa17cf13c19a63367b122a17e63e5d87d4237a9606bd6d07d91ed943e6b6db",
+  "dialogue_sha256": "8539a809b03aa37ad1562c315805a205cdbe49d936a44ef9b72c9dadba409944",
+  "criterion": "dev: correct - 2*wrong - 0.5*miss; raw reranker logit, not probability",
+  "dev_n": 61
+}

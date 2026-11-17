@@ -1,0 +1,13 @@
+{
+  "raw_rows": 608,
+  "empty_rows": 0,
+  "header_rows": 1,
+  "exact_duplicate_rows": 29,
+  "clean_rows": 578,
+  "conflicting_questions": 18,
+  "frozen_rows": 556,
+  "clean_matches_frozen": false,
+  "snapshot_covers_all_questions": true,
+  "snapshot_answers_present_in_raw": true,
+  "substantive_conflicts": 17
+}

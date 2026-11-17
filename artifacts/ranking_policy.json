@@ -1,0 +1,9 @@
+{
+  "fingerprint": "84fa17cf13c19a63367b122a17e63e5d87d4237a9606bd6d07d91ed943e6b6db",
+  "rank_weight": 4.0,
+  "official_bonus": 4.0,
+  "dev_p1": 0.8958333333333334,
+  "dev_mrr": 0.923611111111111,
+  "n": 48,
+  "note": "Fitted only on dev. Authority changes ordering, never confidence score. Known queries cover official additions; legacy ranking needs separate human review."
+}

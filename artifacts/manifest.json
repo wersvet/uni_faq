@@ -1,0 +1,26 @@
+{
+  "python": "3.14.8",
+  "platform": "Linux-7.2.13-200.fc44.x86_64-x86_64-with-glibc2.43",
+  "files": {
+    "data/raw.parquet": "ab310e1e13b94a52d54a01262c715424e503dfcd38e9015d40237a05c96ef7c4",
+    "data/original_faq.parquet": "f8df577c5c389b77fb483ec1c88ac3a4d25e3d5acc90fe848c5e60c158726c68",
+    "data/corpus.json": "0779de238816b482eb1ec48c11e382d7243830ffdc6a80db0a605d6cec0d1df4",
+    "data/evaluation.jsonl": "6916f9e0c672a58d5f0444a78abe6954d5ba23fc77315a72a0df1df9e271fb42",
+    "data/conflicting_answers.json": "58a6b810a92220e5c287e7ed0a85d5188308c259b5b9115d00834d782eb6e827",
+    "requirements.txt": "d29c435c076cf421b67de68e9aaf77c401a1cde214d725b460ab9de299f0281a"
+  },
+  "models": {
+    "intfloat/multilingual-e5-base": "d128750597153bb5987e10b1c3493a34e5a4502a",
+    "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1": "1427fd652930e4ba29e8149678df786c240d8825"
+  },
+  "packages": {
+    "spacy": "3.8.18",
+    "nltk": "3.10.4",
+    "torch": "2.14.1+cpu",
+    "sentence-transformers": "6.2.0",
+    "scikit-learn": "1.9.1",
+    "pandas": "3.1.0",
+    "streamlit": "1.66.1",
+    "python-telegram-bot": "22.8"
+  }
+}

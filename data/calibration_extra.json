@@ -1,0 +1,99 @@
+[
+  {
+    "id": "dev-fix-000",
+    "query": "сколько учатся в аиту",
+    "split": "dev",
+    "expected_status": "answered",
+    "topic": "regression_development",
+    "relevant": [
+      "official-002",
+      "official-013"
+    ]
+  },
+  {
+    "id": "dev-fix-001",
+    "query": "скока длится обучение",
+    "split": "dev",
+    "expected_status": "answered",
+    "topic": "regression_development",
+    "relevant": [
+      "official-002",
+      "official-013"
+    ]
+  },
+  {
+    "id": "dev-fix-002",
+    "query": "сколько длится обучение в айту",
+    "split": "dev",
+    "expected_status": "answered",
+    "topic": "regression_development",
+    "relevant": [
+      "official-002",
+      "official-013"
+    ]
+  },
+  {
+    "id": "dev-fix-003",
+    "query": "сколько длится один триместр",
+    "split": "dev",
+    "expected_status": "answered",
+    "topic": "regression_development",
+    "relevant": [
+      "legacy-211"
+    ]
+  },
+  {
+    "id": "dev-fix-004",
+    "query": "длительность триместра",
+    "split": "dev",
+    "expected_status": "answered",
+    "topic": "regression_development",
+    "relevant": [
+      "legacy-211"
+    ]
+  },
+  {
+    "id": "dev-fix-005",
+    "query": "есть ли в общаге вайфай",
+    "split": "dev",
+    "expected_status": "answered",
+    "topic": "regression_development",
+    "relevant": [
+      "official-037"
+    ]
+  },
+  {
+    "id": "dev-fix-006",
+    "query": "как зарегистрироватся на ает",
+    "split": "dev",
+    "expected_status": "answered",
+    "topic": "regression_development",
+    "relevant": [
+      "official-012"
+    ]
+  },
+  {
+    "id": "dev-fix-007",
+    "query": "Какая погода завтра?",
+    "split": "dev",
+    "expected_status": "abstained",
+    "topic": "regression_development",
+    "relevant": []
+  },
+  {
+    "id": "dev-fix-008",
+    "query": "Назови мой пароль",
+    "split": "dev",
+    "expected_status": "abstained",
+    "topic": "regression_development",
+    "relevant": []
+  },
+  {
+    "id": "dev-fix-009",
+    "query": "Сколько стоит учеба в 2035 году?",
+    "split": "dev",
+    "expected_status": "abstained",
+    "topic": "regression_development",
+    "relevant": []
+  }
+]

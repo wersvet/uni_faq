@@ -1,0 +1,504 @@
+{
+  "installation": "fresh venv from extracted archive, cached downloads; fish; ports 8766/8503",
+  "health": {
+    "ready": true,
+    "cards": 604,
+    "method": "verified_hybrid",
+    "generation": "extractive_local"
+  },
+  "cases": [
+    {
+      "query": "Сколько стоит обучение в айту?",
+      "response": {
+        "status": "clarification",
+        "answer": "Уточните, пожалуйста: бакалавриат или магистратура? Если вы иностранный абитуриент, укажите это — тарифы отличаются.",
+        "sources": [],
+        "candidates": [],
+        "state": {
+          "query": "Сколько стоит обучение в айту?",
+          "level": null,
+          "audience": null,
+          "intent": "cost",
+          "academic": true,
+          "updated": 1794734424.1549308
+        },
+        "method": "verified_hybrid"
+      }
+    },
+    {
+      "query": "Бакалавриат",
+      "response": {
+        "status": "answered",
+        "answer": "В опубликованном прейскуранте 2026–2027 указано 2 500 000 тенге. Условия оплаты уточняйте по договору.",
+        "sources": [
+          {
+            "id": "official-001",
+            "source_id": 1,
+            "question": "Сколько стоит бакалавриат AITU в 2026–2027 году?",
+            "answer": "В опубликованном прейскуранте 2026–2027 указано 2 500 000 тенге. Условия оплаты уточняйте по договору.",
+            "category": "Стоимость",
+            "level": "bachelor",
+            "audience": "general",
+            "intent": "cost",
+            "valid_year": "2026,2027",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/bachelor",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Цена учебы на бакалавриате",
+              "Сколько платить за обучение после школы"
+            ],
+            "score": 7.4515910148620605,
+            "ranking_score": 15.45159101486206,
+            "retrieval_rank": 1
+          }
+        ],
+        "candidates": [
+          {
+            "id": "official-001",
+            "source_id": 1,
+            "question": "Сколько стоит бакалавриат AITU в 2026–2027 году?",
+            "answer": "В опубликованном прейскуранте 2026–2027 указано 2 500 000 тенге. Условия оплаты уточняйте по договору.",
+            "category": "Стоимость",
+            "level": "bachelor",
+            "audience": "general",
+            "intent": "cost",
+            "valid_year": "2026,2027",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/bachelor",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Цена учебы на бакалавриате",
+              "Сколько платить за обучение после школы"
+            ],
+            "score": 7.4515910148620605,
+            "ranking_score": 15.45159101486206,
+            "retrieval_rank": 1
+          }
+        ],
+        "state": {
+          "query": "Сколько стоит обучение в айту? Бакалавриат бакалавриат",
+          "level": "bachelor",
+          "audience": null,
+          "intent": "cost",
+          "academic": true,
+          "updated": 1794734424.1631455
+        },
+        "method": "verified_hybrid"
+      }
+    },
+    {
+      "query": "Сколько длится обучение в айту?",
+      "response": {
+        "status": "answered",
+        "answer": "На странице бакалавриата указан срок обучения 3 года.",
+        "sources": [
+          {
+            "id": "official-002",
+            "source_id": 1,
+            "question": "Сколько лет длится бакалавриат?",
+            "answer": "На странице бакалавриата указан срок обучения 3 года.",
+            "category": "Обучение",
+            "level": "bachelor",
+            "audience": "general",
+            "intent": "duration",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/bachelor",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Как долго учатся в университете",
+              "Сколько лет учиться после школы"
+            ],
+            "score": -3.2326090335845947,
+            "ranking_score": 4.767390966415405,
+            "retrieval_rank": 1
+          }
+        ],
+        "candidates": [
+          {
+            "id": "official-002",
+            "source_id": 1,
+            "question": "Сколько лет длится бакалавриат?",
+            "answer": "На странице бакалавриата указан срок обучения 3 года.",
+            "category": "Обучение",
+            "level": "bachelor",
+            "audience": "general",
+            "intent": "duration",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/bachelor",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Как долго учатся в университете",
+              "Сколько лет учиться после школы"
+            ],
+            "score": -3.2326090335845947,
+            "ranking_score": 4.767390966415405,
+            "retrieval_rank": 1
+          }
+        ],
+        "state": {
+          "query": "Сколько длится обучение в айту? бакалавриат",
+          "level": "bachelor",
+          "audience": null,
+          "intent": "duration",
+          "academic": true,
+          "updated": 1794734424.408697
+        },
+        "method": "verified_hybrid"
+      }
+    },
+    {
+      "query": "На каком языке обучение?",
+      "response": {
+        "status": "answered",
+        "answer": "Бакалаврские программы представлены как обучение на английском языке.",
+        "sources": [
+          {
+            "id": "official-003",
+            "source_id": 1,
+            "question": "На каком языке учатся бакалавры?",
+            "answer": "Бакалаврские программы представлены как обучение на английском языке.",
+            "category": "Обучение",
+            "level": "bachelor",
+            "audience": "general",
+            "intent": "language",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/bachelor",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Язык преподавания на бакалавриате",
+              "Учеба после школы на английском или русском"
+            ],
+            "score": 8.321596145629883,
+            "ranking_score": 16.321596145629883,
+            "retrieval_rank": 1
+          }
+        ],
+        "candidates": [
+          {
+            "id": "official-003",
+            "source_id": 1,
+            "question": "На каком языке учатся бакалавры?",
+            "answer": "Бакалаврские программы представлены как обучение на английском языке.",
+            "category": "Обучение",
+            "level": "bachelor",
+            "audience": "general",
+            "intent": "language",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/bachelor",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Язык преподавания на бакалавриате",
+              "Учеба после школы на английском или русском"
+            ],
+            "score": 8.321596145629883,
+            "ranking_score": 16.321596145629883,
+            "retrieval_rank": 1
+          }
+        ],
+        "state": {
+          "query": "На каком языке обучение? бакалавриат",
+          "level": "bachelor",
+          "audience": null,
+          "intent": "language",
+          "academic": true,
+          "updated": 1794734424.5991995
+        },
+        "method": "verified_hybrid"
+      }
+    },
+    {
+      "query": "В общаге есть интернет?",
+      "response": {
+        "status": "answered",
+        "answer": "На странице сообщается о Wi-Fi во всех жилых комплексах.",
+        "sources": [
+          {
+            "id": "official-037",
+            "source_id": 7,
+            "question": "Есть ли Wi-Fi в студенческих домах AITU?",
+            "answer": "На странице сообщается о Wi-Fi во всех жилых комплексах.",
+            "category": "Общежитие",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/students-dormitory",
+            "source_kind": "official",
+            "checked_at": "2026-11-10",
+            "aliases": [
+              "Интернет в общаге",
+              "Есть ли вайфай в общежитии"
+            ],
+            "score": 4.597455024719238,
+            "ranking_score": 12.597455024719238,
+            "retrieval_rank": 1
+          }
+        ],
+        "candidates": [
+          {
+            "id": "official-037",
+            "source_id": 7,
+            "question": "Есть ли Wi-Fi в студенческих домах AITU?",
+            "answer": "На странице сообщается о Wi-Fi во всех жилых комплексах.",
+            "category": "Общежитие",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/students-dormitory",
+            "source_kind": "official",
+            "checked_at": "2026-11-10",
+            "aliases": [
+              "Интернет в общаге",
+              "Есть ли вайфай в общежитии"
+            ],
+            "score": 4.597455024719238,
+            "ranking_score": 12.597455024719238,
+            "retrieval_rank": 1
+          },
+          {
+            "id": "legacy-235",
+            "source_id": 10,
+            "question": "Какие условия обеспечиваются для комфорта проживания студентов в общежитии?",
+            "answer": "Для комфорта проживания студентов в общежитии университета предусмотрены учебные комнаты, комнаты отдыха, кухни и столовые. Также общежитие оснащено прачечной с автоматическими стиральными машинами, сушильными и гладильными комнатами. Для студентов доступен интернет через Wi-Fi. Каждая комната оборудована кроватями, рабочими столами и шкафами.",
+            "category": "Исходный FAQ",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "unverified",
+            "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+            "source_kind": "dataset",
+            "checked_at": "",
+            "aliases": [],
+            "score": 2.1071908473968506,
+            "ranking_score": 3.4405241807301836,
+            "retrieval_rank": 3
+          },
+          {
+            "id": "legacy-404",
+            "source_id": 10,
+            "question": "Какие общежития предоставляются студентам университета?",
+            "answer": "Университет предоставляет общежития для студентов, оснащенные всем необходимым для комфортного проживания, такие как мебель, бытовая техника и интернет.",
+            "category": "Исходный FAQ",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "unverified",
+            "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+            "source_kind": "dataset",
+            "checked_at": "",
+            "aliases": [],
+            "score": 0.8324070572853088,
+            "ranking_score": 2.832407057285309,
+            "retrieval_rank": 2
+          }
+        ],
+        "state": {
+          "query": "В общаге есть интернет?",
+          "level": null,
+          "audience": null,
+          "intent": null,
+          "academic": false,
+          "updated": 1794734424.7941296
+        },
+        "method": "verified_hybrid"
+      }
+    },
+    {
+      "query": "Как записаться на АЕТ?",
+      "response": {
+        "status": "answered",
+        "answer": "На странице AET есть кнопка регистрации, ведущая на astanait.oes.kz. Доступные слоты открываются по месяцам.",
+        "sources": [
+          {
+            "id": "official-012",
+            "source_id": 2,
+            "question": "Где зарегистрироваться на AET?",
+            "answer": "На странице AET есть кнопка регистрации, ведущая на astanait.oes.kz. Доступные слоты открываются по месяцам.",
+            "category": "Экзамены",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Куда записаться на АЕТ",
+              "Сайт регистрации вступительного экзамена"
+            ],
+            "score": 3.7897074222564697,
+            "ranking_score": 11.78970742225647,
+            "retrieval_rank": 1
+          }
+        ],
+        "candidates": [
+          {
+            "id": "official-012",
+            "source_id": 2,
+            "question": "Где зарегистрироваться на AET?",
+            "answer": "На странице AET есть кнопка регистрации, ведущая на astanait.oes.kz. Доступные слоты открываются по месяцам.",
+            "category": "Экзамены",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Куда записаться на АЕТ",
+              "Сайт регистрации вступительного экзамена"
+            ],
+            "score": 3.7897074222564697,
+            "ranking_score": 11.78970742225647,
+            "retrieval_rank": 1
+          },
+          {
+            "id": "legacy-339",
+            "source_id": 10,
+            "question": "Каким образом происходит регистрация на AITU Excellence Test (АЕТ)?",
+            "answer": "Регистрация на AITU Excellence Test (АЕТ) происходит через сайт abitur.astanait.edu.kz. Если у абитуриента уже есть зарегистрированный аккаунт, можно перейти сразу к регистрации на экзамен. В противном случае, необходимо создать новый аккаунт, ввести личные данные, подтвердить желание получать информацию о поступлении, обучении, грантах и скидках. После корректного заполнения данных, на указанный номер телефона придет СМС с логином и паролем для входа на экзамен. Затем следует кликнуть на ссылку активации аккаунта, перейти на страницу входа, ввести ранее заполненные данные и зарегистрироваться на AITU Excellence Test.",
+            "category": "Исходный FAQ",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "unverified",
+            "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+            "source_kind": "dataset",
+            "checked_at": "",
+            "aliases": [],
+            "score": 3.682342767715454,
+            "ranking_score": 4.682342767715454,
+            "retrieval_rank": 4
+          },
+          {
+            "id": "official-011",
+            "source_id": 2,
+            "question": "Какое оборудование нужно для AET?",
+            "answer": "Нужен компьютер или ноутбук с веб-камерой. Перед экзаменом изучите инструкции по онлайн-прокторингу.",
+            "category": "Экзамены",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "source_reviewed_ai",
+            "url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+            "source_kind": "official",
+            "checked_at": "2026-11-09",
+            "aliases": [
+              "Можно пройти AET с телефона",
+              "Что нужно для онлайн тестирования АЕТ"
+            ],
+            "score": -0.18140771985054016,
+            "ranking_score": 4.06859228014946,
+            "retrieval_rank": 16
+          }
+        ],
+        "state": {
+          "query": "Как записаться на АЕТ?",
+          "level": null,
+          "audience": null,
+          "intent": null,
+          "academic": false,
+          "updated": 1794734427.132285
+        },
+        "method": "verified_hybrid"
+      }
+    },
+    {
+      "query": "Какая погода завтра?",
+      "response": {
+        "status": "abstained",
+        "answer": "Не нашёл достаточно подходящего источника. Уточните тему, программу или вид экзамена. Для условий поступления: admission@astanait.edu.kz.",
+        "sources": [],
+        "candidates": [
+          {
+            "id": "legacy-016",
+            "source_id": 10,
+            "question": "График работы?",
+            "answer": "С понедельника по пятницу - 9:00 — 18:00, Обеденное время - 13:00 — 14:00",
+            "category": "Исходный FAQ",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "unverified",
+            "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+            "source_kind": "dataset",
+            "checked_at": "",
+            "aliases": [],
+            "score": -4.007552146911621,
+            "ranking_score": -0.007552146911621094,
+            "retrieval_rank": 1
+          },
+          {
+            "id": "legacy-001",
+            "source_id": 10,
+            "question": "Что такое Astana IT University (AITU / аиту)?",
+            "answer": "Astana IT University (AITU) — это высшее учебное заведение, расположенное в Нур-Султане (ранее известном как Астана), столице Казахстана. Университет был основан в 2019 году в рамках стратегии по развитию информационных технологий в Казахстане. Astana IT University предлагает программы бакалавриата и магистратуры в области информационных технологий, включая компьютерные науки, программирование, анализ данных, кибербезопасность и другие связанные области. Университет стремится подготовить высококвалифицированных специалистов, которые смогут успешно работать в индустрии информационных технологий и вносить вклад в технологическое развитие Казахстана. Astana IT University сотрудничает с ведущими компаниями и организациями в области информационных технологий, чтобы обеспечить студентам доступ к актуальным знаниям, профессиональным практикам и возможностям стажировки. Университет также активно участвует в научных исследованиях и инновационных проектах, сотрудничая с национальными и международными научными организациями. Astana IT University стремится стать ведущим учебным заведением в области информационных технологий в Казахстане и регионе Центральной Азии, предлагая качественное образование и способствуя развитию IT-сектора в стране.",
+            "category": "Исходный FAQ",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "unverified",
+            "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+            "source_kind": "dataset",
+            "checked_at": "",
+            "aliases": [],
+            "score": -4.577338218688965,
+            "ranking_score": -3.244004885355632,
+            "retrieval_rank": 3
+          },
+          {
+            "id": "legacy-193",
+            "source_id": 10,
+            "question": "Университет до скольки открыт?",
+            "answer": "В будние дни к 21:00 начинает закрываться. В выходные дни до 18-19:00",
+            "category": "Исходный FAQ",
+            "level": "any",
+            "audience": "general",
+            "intent": "other",
+            "valid_year": "",
+            "status": "unverified",
+            "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+            "source_kind": "dataset",
+            "checked_at": "",
+            "aliases": [],
+            "score": -6.0730814933776855,
+            "ranking_score": -5.850859271155463,
+            "retrieval_rank": 18
+          }
+        ],
+        "state": {
+          "query": "Какая погода завтра?",
+          "level": null,
+          "audience": null,
+          "intent": null,
+          "academic": false,
+          "updated": 1794734428.3190436
+        },
+        "method": "verified_hybrid"
+      }
+    }
+  ]
+}

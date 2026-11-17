@@ -1,0 +1,2004 @@
+[
+  {
+    "question": "Какой язык программирования наиболее популярен?",
+    "expected_status": "answered",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Python\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-094",
+          "source_id": 10,
+          "question": "Какой язык программирования наиболее популярен?",
+          "answer": "Python",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 10.438176155090332,
+          "ranking_score": 14.438176155090332,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-094",
+          "source_id": 10,
+          "question": "Какой язык программирования наиболее популярен?",
+          "answer": "Python",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 10.438176155090332,
+          "ranking_score": 14.438176155090332,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-517",
+          "source_id": 10,
+          "question": "Какие языки программирования изучают студенты на специальности Computer Science?",
+          "answer": "Студенты на специальности Computer Science изучают языки программирования, такие как Java, Python, C++, JavaScript и другие.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -0.7009977102279663,
+          "ranking_score": 1.2990022897720337,
+          "retrieval_rank": 2
+        },
+        {
+          "id": "official-003",
+          "source_id": 1,
+          "question": "На каком языке учатся бакалавры?",
+          "answer": "Бакалаврские программы представлены как обучение на английском языке.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "language",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Язык преподавания на бакалавриате",
+            "Учеба после школы на английском или русском"
+          ],
+          "score": -6.928501129150391,
+          "ranking_score": -2.3570725577218195,
+          "retrieval_rank": 7
+        }
+      ],
+      "state": {
+        "query": "Какой язык программирования наиболее популярен?",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841750.7931256
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "принципы криптографии",
+    "expected_status": "answered",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-096",
+          "source_id": 10,
+          "question": "Какие основные принципы криптографии?",
+          "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 8.395066261291504,
+          "ranking_score": 12.395066261291504,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-096",
+          "source_id": 10,
+          "question": "Какие основные принципы криптографии?",
+          "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 8.395066261291504,
+          "ranking_score": 12.395066261291504,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-092",
+          "source_id": 10,
+          "question": "Какой план обучения на Cybersecurity (Кибербезопасность)?",
+          "answer": "План обучения на курсе по кибербезопасности (Cybersecurity) включает следующие темы: Основы кибербезопасности, Криптография, Сетевая безопасность, Защита операционных систем, Управление информационной безопасностью, Анализ уязвимостей и тестирование на проникновение, Защита данных и конфиденциальность, Безопасность веб-приложений, Управление инцидентами и реагирование на нарушения, Этические и правовые аспекты кибербезопасности. Курсы по кибербезопасности обычно включают в себя как теоретические аспекты, так и практические задания, чтобы студенты могли развивать навыки анализа, защиты и реагирования на угрозы информационной безопасности.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -4.817946910858154,
+          "ranking_score": -3.4846135775248213,
+          "retrieval_rank": 3
+        },
+        {
+          "id": "legacy-093",
+          "source_id": 10,
+          "question": "Что проходят на Cybersecurity (Кибербезопасность)?",
+          "answer": "На курсах по кибербезопасности (Cybersecurity) обычно рассматриваются следующие темы: Основы кибербезопасности, Криптография, Сетевая безопасность, Защита операционных систем, Управление информационной безопасностью, Анализ уязвимостей и тестирование на проникновение, Защита данных и конфиденциальность, Безопасность веб-приложений, Управление инцидентами и реагирование на нарушения, Этические и правовые аспекты кибербезопасности. Курсы по кибербезопасности обычно включают в себя как теоретические аспекты, так и практические задания, чтобы студенты могли развивать навыки анализа, защиты и реагирования на угрозы информационной безопасности. Со списком дисицплин подробнее можно ознакомиться на сайте: https://astanait.edu.kz/cybersecurity/",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -4.684889316558838,
+          "ranking_score": -3.684889316558838,
+          "retrieval_rank": 4
+        }
+      ],
+      "state": {
+        "query": "принципы криптографии",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841751.879953
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "криптография и ее принципы",
+    "expected_status": "answered",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-096",
+          "source_id": 10,
+          "question": "Какие основные принципы криптографии?",
+          "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 6.237010478973389,
+          "ranking_score": 10.237010478973389,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-096",
+          "source_id": 10,
+          "question": "Какие основные принципы криптографии?",
+          "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 6.237010478973389,
+          "ranking_score": 10.237010478973389,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-092",
+          "source_id": 10,
+          "question": "Какой план обучения на Cybersecurity (Кибербезопасность)?",
+          "answer": "План обучения на курсе по кибербезопасности (Cybersecurity) включает следующие темы: Основы кибербезопасности, Криптография, Сетевая безопасность, Защита операционных систем, Управление информационной безопасностью, Анализ уязвимостей и тестирование на проникновение, Защита данных и конфиденциальность, Безопасность веб-приложений, Управление инцидентами и реагирование на нарушения, Этические и правовые аспекты кибербезопасности. Курсы по кибербезопасности обычно включают в себя как теоретические аспекты, так и практические задания, чтобы студенты могли развивать навыки анализа, защиты и реагирования на угрозы информационной безопасности.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -5.222235202789307,
+          "ranking_score": -3.8889018694559736,
+          "retrieval_rank": 3
+        },
+        {
+          "id": "legacy-093",
+          "source_id": 10,
+          "question": "Что проходят на Cybersecurity (Кибербезопасность)?",
+          "answer": "На курсах по кибербезопасности (Cybersecurity) обычно рассматриваются следующие темы: Основы кибербезопасности, Криптография, Сетевая безопасность, Защита операционных систем, Управление информационной безопасностью, Анализ уязвимостей и тестирование на проникновение, Защита данных и конфиденциальность, Безопасность веб-приложений, Управление инцидентами и реагирование на нарушения, Этические и правовые аспекты кибербезопасности. Курсы по кибербезопасности обычно включают в себя как теоретические аспекты, так и практические задания, чтобы студенты могли развивать навыки анализа, защиты и реагирования на угрозы информационной безопасности. Со списком дисицплин подробнее можно ознакомиться на сайте: https://astanait.edu.kz/cybersecurity/",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -4.9269537925720215,
+          "ranking_score": -3.9269537925720215,
+          "retrieval_rank": 4
+        }
+      ],
+      "state": {
+        "query": "криптография и ее принципы",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841753.1447132
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "самый популярный язык программирование",
+    "expected_status": "answered",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Python\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-094",
+          "source_id": 10,
+          "question": "Какой язык программирования наиболее популярен?",
+          "answer": "Python",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 9.444920539855957,
+          "ranking_score": 13.444920539855957,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-094",
+          "source_id": 10,
+          "question": "Какой язык программирования наиболее популярен?",
+          "answer": "Python",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 9.444920539855957,
+          "ranking_score": 13.444920539855957,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-517",
+          "source_id": 10,
+          "question": "Какие языки программирования изучают студенты на специальности Computer Science?",
+          "answer": "Студенты на специальности Computer Science изучают языки программирования, такие как Java, Python, C++, JavaScript и другие.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -0.49332195520401,
+          "ranking_score": 1.50667804479599,
+          "retrieval_rank": 2
+        },
+        {
+          "id": "legacy-305",
+          "source_id": 10,
+          "question": "Что предлагает образовательная программа 'Программное обеспечение' в колледже Astana IT University?",
+          "answer": "Образовательная программа 'Программное обеспечение' в колледже Astana IT University обучает студентов разработке прикладных и мобильных приложений на различных языках программирования, таких как С#, Java, Python, Swift и др. Они также изучают основы разработки баз данных, создание сетевых приложений и сайтов, а также компьютерную графику с использованием Adobe InDesign, Photoshop и CorelDraw. По окончанию программы студенты могут заниматься анализом, проектированием и программированием прикладных задач, выбором технологии и языка программирования, а также внедрением и сопровождением программ и программных средств.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -3.2977397441864014,
+          "ranking_score": -1.964406410853068,
+          "retrieval_rank": 3
+        }
+      ],
+      "state": {
+        "query": "самый популярный язык программирование",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841754.480521
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "сколько длится обучение в айту",
+    "expected_status": "answered",
+    "expected_id": "official-002",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Бакалавриат: На странице бакалавриата указан срок обучения 3 года.\n\nМагистратура: Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+      "sources": [
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -2.699615716934204,
+          "ranking_score": 5.300384283065796,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": -2.7670979499816895,
+          "ranking_score": 5.2329020500183105,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -2.699615716934204,
+          "ranking_score": 5.300384283065796,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": -2.7670979499816895,
+          "ranking_score": 5.2329020500183105,
+          "retrieval_rank": 1
+        }
+      ],
+      "state": {
+        "query": "сколько длится обучение в айту",
+        "level": null,
+        "audience": null,
+        "intent": "duration",
+        "academic": true,
+        "updated": 1794841755.4703712
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "сколько длится один триместр",
+    "expected_status": "answered",
+    "expected_id": "legacy-211",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Один триместр в Astana IT University (AITU) длится 10 недель\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-211",
+          "source_id": 10,
+          "question": "Какова продолжительность одного триместра в AITU?",
+          "answer": "\"Один триместр в Astana IT University (AITU) длится 10 недель\"",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 1.8520560264587402,
+          "ranking_score": 5.85205602645874,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-211",
+          "source_id": 10,
+          "question": "Какова продолжительность одного триместра в AITU?",
+          "answer": "\"Один триместр в Astana IT University (AITU) длится 10 недель\"",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 1.8520560264587402,
+          "ranking_score": 5.85205602645874,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-405",
+          "source_id": 10,
+          "question": "Какой срок обучения в университете?",
+          "answer": "Бакалавриат обычно длится 3 года, магистратура - 2 года.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -1.5964752435684204,
+          "ranking_score": -1.025046672139849,
+          "retrieval_rank": 7
+        },
+        {
+          "id": "legacy-210",
+          "source_id": 10,
+          "question": "Какова длительность учебного года в AITU?",
+          "answer": "Учебный год в Astana IT University (AITU) состоит из 3 триместров, каждый из которых длится 10 недель",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -1.7483454942703247,
+          "ranking_score": -1.2483454942703247,
+          "retrieval_rank": 8
+        }
+      ],
+      "state": {
+        "query": "сколько длится один триместр",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841755.6079
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "Сколько стоит обучение в айту?",
+    "expected_status": "clarification",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "clarification",
+      "answer": "Уточните, пожалуйста: бакалавриат или магистратура? Если вы иностранный абитуриент, укажите это — тарифы отличаются.",
+      "sources": [],
+      "candidates": [],
+      "state": {
+        "query": "Сколько стоит обучение в айту?",
+        "level": null,
+        "audience": null,
+        "intent": "cost",
+        "academic": true,
+        "updated": 1794841756.1393678
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "Бакалавриат",
+    "expected_status": "answered",
+    "expected_id": "official-001",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "В опубликованном прейскуранте 2026–2027 указано 2 500 000 тенге. Условия оплаты уточняйте по договору.",
+      "sources": [
+        {
+          "id": "official-001",
+          "source_id": 1,
+          "question": "Сколько стоит бакалавриат AITU в 2026–2027 году?",
+          "answer": "В опубликованном прейскуранте 2026–2027 указано 2 500 000 тенге. Условия оплаты уточняйте по договору.",
+          "category": "Стоимость",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "cost",
+          "valid_year": "2026,2027",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Цена учебы на бакалавриате",
+            "Сколько платить за обучение после школы"
+          ],
+          "score": 7.4515910148620605,
+          "ranking_score": 15.45159101486206,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-001",
+          "source_id": 1,
+          "question": "Сколько стоит бакалавриат AITU в 2026–2027 году?",
+          "answer": "В опубликованном прейскуранте 2026–2027 указано 2 500 000 тенге. Условия оплаты уточняйте по договору.",
+          "category": "Стоимость",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "cost",
+          "valid_year": "2026,2027",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Цена учебы на бакалавриате",
+            "Сколько платить за обучение после школы"
+          ],
+          "score": 7.4515910148620605,
+          "ranking_score": 15.45159101486206,
+          "retrieval_rank": 1
+        }
+      ],
+      "state": {
+        "query": "Сколько стоит обучение в айту? Бакалавриат бакалавриат",
+        "level": "bachelor",
+        "audience": null,
+        "intent": "cost",
+        "academic": true,
+        "updated": 1794841756.1396449
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "принципы криптографии",
+    "expected_status": "answered",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-096",
+          "source_id": 10,
+          "question": "Какие основные принципы криптографии?",
+          "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 8.395066261291504,
+          "ranking_score": 12.395066261291504,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-096",
+          "source_id": 10,
+          "question": "Какие основные принципы криптографии?",
+          "answer": "Криптография - это наука о методах обеспечения безопасности информации путем шифрования данных с использованием различных алгоритмов.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 8.395066261291504,
+          "ranking_score": 12.395066261291504,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-092",
+          "source_id": 10,
+          "question": "Какой план обучения на Cybersecurity (Кибербезопасность)?",
+          "answer": "План обучения на курсе по кибербезопасности (Cybersecurity) включает следующие темы: Основы кибербезопасности, Криптография, Сетевая безопасность, Защита операционных систем, Управление информационной безопасностью, Анализ уязвимостей и тестирование на проникновение, Защита данных и конфиденциальность, Безопасность веб-приложений, Управление инцидентами и реагирование на нарушения, Этические и правовые аспекты кибербезопасности. Курсы по кибербезопасности обычно включают в себя как теоретические аспекты, так и практические задания, чтобы студенты могли развивать навыки анализа, защиты и реагирования на угрозы информационной безопасности.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -4.817946910858154,
+          "ranking_score": -3.4846135775248213,
+          "retrieval_rank": 3
+        },
+        {
+          "id": "legacy-093",
+          "source_id": 10,
+          "question": "Что проходят на Cybersecurity (Кибербезопасность)?",
+          "answer": "На курсах по кибербезопасности (Cybersecurity) обычно рассматриваются следующие темы: Основы кибербезопасности, Криптография, Сетевая безопасность, Защита операционных систем, Управление информационной безопасностью, Анализ уязвимостей и тестирование на проникновение, Защита данных и конфиденциальность, Безопасность веб-приложений, Управление инцидентами и реагирование на нарушения, Этические и правовые аспекты кибербезопасности. Курсы по кибербезопасности обычно включают в себя как теоретические аспекты, так и практические задания, чтобы студенты могли развивать навыки анализа, защиты и реагирования на угрозы информационной безопасности. Со списком дисицплин подробнее можно ознакомиться на сайте: https://astanait.edu.kz/cybersecurity/",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -4.684889316558838,
+          "ranking_score": -3.684889316558838,
+          "retrieval_rank": 4
+        }
+      ],
+      "state": {
+        "query": "принципы криптографии",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841756.2167437
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "сколько длится один триместр",
+    "expected_status": "answered",
+    "expected_id": "legacy-211",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Один триместр в Astana IT University (AITU) длится 10 недель\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-211",
+          "source_id": 10,
+          "question": "Какова продолжительность одного триместра в AITU?",
+          "answer": "\"Один триместр в Astana IT University (AITU) длится 10 недель\"",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 1.8520560264587402,
+          "ranking_score": 5.85205602645874,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-211",
+          "source_id": 10,
+          "question": "Какова продолжительность одного триместра в AITU?",
+          "answer": "\"Один триместр в Astana IT University (AITU) длится 10 недель\"",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 1.8520560264587402,
+          "ranking_score": 5.85205602645874,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-405",
+          "source_id": 10,
+          "question": "Какой срок обучения в университете?",
+          "answer": "Бакалавриат обычно длится 3 года, магистратура - 2 года.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -1.5964752435684204,
+          "ranking_score": -1.025046672139849,
+          "retrieval_rank": 7
+        },
+        {
+          "id": "legacy-210",
+          "source_id": 10,
+          "question": "Какова длительность учебного года в AITU?",
+          "answer": "Учебный год в Astana IT University (AITU) состоит из 3 триместров, каждый из которых длится 10 недель",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -1.7483454942703247,
+          "ranking_score": -1.2483454942703247,
+          "retrieval_rank": 8
+        }
+      ],
+      "state": {
+        "query": "сколько длится один триместр",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841757.4951398
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "Хочу поступить в магистратуру",
+    "expected_status": "any",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Первый этап — регистрация и загрузка документов через My DU Mobile. Для зачисления также необходима личная подача оригиналов.",
+      "sources": [
+        {
+          "id": "official-016",
+          "source_id": 3,
+          "question": "Можно ли подать документы в магистратуру онлайн?",
+          "answer": "Первый этап — регистрация и загрузка документов через My DU Mobile. Для зачисления также необходима личная подача оригиналов.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как подать документы на магистратуру",
+            "Подача через My DU"
+          ],
+          "score": -1.510510802268982,
+          "ranking_score": 4.489489197731018,
+          "retrieval_rank": 2
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-016",
+          "source_id": 3,
+          "question": "Можно ли подать документы в магистратуру онлайн?",
+          "answer": "Первый этап — регистрация и загрузка документов через My DU Mobile. Для зачисления также необходима личная подача оригиналов.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как подать документы на магистратуру",
+            "Подача через My DU"
+          ],
+          "score": -1.510510802268982,
+          "ranking_score": 4.489489197731018,
+          "retrieval_rank": 2
+        },
+        {
+          "id": "legacy-197",
+          "source_id": 10,
+          "question": "Какие документы необходимо предоставить для поступления в магистратуру?",
+          "answer": "Для поступления в магистратуру необходимо предоставить следующие документы: 1. Прикрепить заявление на магистратуру 2. Диплом об окончании бакалавриата (оригинал) 3. Приложение к диплому (оригинал) 4. Сертификат КТ (Казахский тест по общеобразовательным дисциплинам) 5. Удостоверение личности (копия) 6. Фотографии 3х4 (6 штук) 7. При наличии, сертификат IELTS/TOEFL IBT/TOEFL ITP/APTIS/Interpress (г. Алматы, Астана и Караганда) (копия) 8. Справка по форме 075 (оригинал) 9. Документ, подтверждающий трудовую деятельность (только для лиц, имеющих трудовой стаж) 10. Список научных и научно-методических работ (в случае их наличия) 11. Чек об оплате за обучение (при поступлении на платное отделение).",
+          "category": "Исходный FAQ",
+          "level": "master",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 3.7612335681915283,
+          "ranking_score": 4.161233568191529,
+          "retrieval_rank": 10
+        },
+        {
+          "id": "legacy-137",
+          "source_id": 10,
+          "question": "Какие документы нужно\\\\необходимо собрать для поступления на магистратуру?",
+          "answer": "Прикрепить заявление на магистратуру (https://admission.astanait.edu.kz/magistratura#rec334587707) Диплом об окончании бакалавриата (оригинал) Приложение к диплому (оригинал) Сертификат КТ Удостоверение личности (копия) Фото 3х4 (6 шт.) При наличии, сертификат IELTS/TOEFL IBT/TOEFL ITP/APTIS/Interpress (г. Алматы, Астана и Караганда) (копия) Справка по форме 075 (оригинал) Документ, подтверждающий трудовую деятельность (для лиц, имеющих трудовой стаж) список научных и научно-методических работ (в случае их наличия) Чек об оплате за обучение (при поступлении на платное отделение)",
+          "category": "Исходный FAQ",
+          "level": "master",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 1.300797462463379,
+          "ranking_score": 1.5674641291300455,
+          "retrieval_rank": 15
+        }
+      ],
+      "state": {
+        "query": "Хочу поступить в магистратуру магистратура",
+        "level": "master",
+        "audience": null,
+        "intent": null,
+        "academic": true,
+        "updated": 1794841758.0202208
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "А сколько стоит?",
+    "expected_status": "abstained",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "abstained",
+      "answer": "Для этих условий в базе нет подтверждённого ответа. Можно уточнить программу или обратиться в приёмную комиссию: admission@astanait.edu.kz.",
+      "sources": [],
+      "candidates": [],
+      "state": {
+        "query": "А сколько стоит? магистратура",
+        "level": "master",
+        "audience": null,
+        "intent": "cost",
+        "academic": true,
+        "updated": 1794841758.9036994
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "какой язык программирование самый популярный",
+    "expected_status": "answered",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Python\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-094",
+          "source_id": 10,
+          "question": "Какой язык программирования наиболее популярен?",
+          "answer": "Python",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 10.031554222106934,
+          "ranking_score": 14.031554222106934,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-094",
+          "source_id": 10,
+          "question": "Какой язык программирования наиболее популярен?",
+          "answer": "Python",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 10.031554222106934,
+          "ranking_score": 14.031554222106934,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-517",
+          "source_id": 10,
+          "question": "Какие языки программирования изучают студенты на специальности Computer Science?",
+          "answer": "Студенты на специальности Computer Science изучают языки программирования, такие как Java, Python, C++, JavaScript и другие.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -0.24925941228866577,
+          "ranking_score": 1.7507405877113342,
+          "retrieval_rank": 2
+        },
+        {
+          "id": "legacy-305",
+          "source_id": 10,
+          "question": "Что предлагает образовательная программа 'Программное обеспечение' в колледже Astana IT University?",
+          "answer": "Образовательная программа 'Программное обеспечение' в колледже Astana IT University обучает студентов разработке прикладных и мобильных приложений на различных языках программирования, таких как С#, Java, Python, Swift и др. Они также изучают основы разработки баз данных, создание сетевых приложений и сайтов, а также компьютерную графику с использованием Adobe InDesign, Photoshop и CorelDraw. По окончанию программы студенты могут заниматься анализом, проектированием и программированием прикладных задач, выбором технологии и языка программирования, а также внедрением и сопровождением программ и программных средств.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -3.3604140281677246,
+          "ranking_score": -2.0270806948343916,
+          "retrieval_rank": 3
+        }
+      ],
+      "state": {
+        "query": "какой язык программирование самый популярный",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841758.9044678
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "сколько длится обучение в айту",
+    "expected_status": "answered",
+    "expected_id": "official-002",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Бакалавриат: На странице бакалавриата указан срок обучения 3 года.\n\nМагистратура: Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+      "sources": [
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -2.699615716934204,
+          "ranking_score": 5.300384283065796,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": -2.7670979499816895,
+          "ranking_score": 5.2329020500183105,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -2.699615716934204,
+          "ranking_score": 5.300384283065796,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": -2.7670979499816895,
+          "ranking_score": 5.2329020500183105,
+          "retrieval_rank": 1
+        }
+      ],
+      "state": {
+        "query": "сколько длится обучение в айту",
+        "level": null,
+        "audience": null,
+        "intent": "duration",
+        "academic": true,
+        "updated": 1794841759.9817677
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "длительность триместра",
+    "expected_status": "answered",
+    "expected_id": "legacy-211",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Один триместр в Astana IT University (AITU) длится 10 недель\n\nПримечание: этот ответ есть в исходном учебном датасете; актуальность условий не подтверждена.",
+      "sources": [
+        {
+          "id": "legacy-211",
+          "source_id": 10,
+          "question": "Какова продолжительность одного триместра в AITU?",
+          "answer": "\"Один триместр в Astana IT University (AITU) длится 10 недель\"",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 1.4483124017715454,
+          "ranking_score": 5.448312401771545,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "legacy-211",
+          "source_id": 10,
+          "question": "Какова продолжительность одного триместра в AITU?",
+          "answer": "\"Один триместр в Astana IT University (AITU) длится 10 недель\"",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 1.4483124017715454,
+          "ranking_score": 5.448312401771545,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-210",
+          "source_id": 10,
+          "question": "Какова длительность учебного года в AITU?",
+          "answer": "Учебный год в Astana IT University (AITU) состоит из 3 триместров, каждый из которых длится 10 недель",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -1.262327790260315,
+          "ranking_score": 0.07100554307301832,
+          "retrieval_rank": 3
+        },
+        {
+          "id": "official-024",
+          "source_id": 5,
+          "question": "На какой срок студент AITU может поехать по академической мобильности?",
+          "answer": "На странице исходящей мобильности описано обучение за рубежом в течение одного триместра без прерывания обучения в AITU.",
+          "category": "Исходящая мобильность",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/outg-academ-mobility",
+          "source_kind": "official",
+          "checked_at": "2026-11-10",
+          "aliases": [
+            "На сколько можно уехать учиться за границу",
+            "Длительность исходящей академической мобильности"
+          ],
+          "score": -8.207056045532227,
+          "ranking_score": -2.2070560455322266,
+          "retrieval_rank": 2
+        }
+      ],
+      "state": {
+        "query": "длительность триместра",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841760.1146488
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "сколько учатся в аиту",
+    "expected_status": "answered",
+    "expected_id": "official-002",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "На странице бакалавриата указан срок обучения 3 года.",
+      "sources": [
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -3.1677966117858887,
+          "ranking_score": 4.832203388214111,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -3.1677966117858887,
+          "ranking_score": 4.832203388214111,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": -4.236130237579346,
+          "ranking_score": 3.7638697624206543,
+          "retrieval_rank": 1
+        }
+      ],
+      "state": {
+        "query": "сколько учатся в аиту",
+        "level": null,
+        "audience": null,
+        "intent": "duration",
+        "academic": true,
+        "updated": 1794841760.7367854
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "скока длится обучение",
+    "expected_status": "answered",
+    "expected_id": "official-002",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Бакалавриат: На странице бакалавриата указан срок обучения 3 года.\n\nМагистратура: Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+      "sources": [
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -3.043621778488159,
+          "ranking_score": 4.956378221511841,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": -2.5626087188720703,
+          "ranking_score": 5.43739128112793,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": -2.5626087188720703,
+          "ranking_score": 5.43739128112793,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-002",
+          "source_id": 1,
+          "question": "Сколько лет длится бакалавриат?",
+          "answer": "На странице бакалавриата указан срок обучения 3 года.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "duration",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Как долго учатся в университете",
+            "Сколько лет учиться после школы"
+          ],
+          "score": -3.043621778488159,
+          "ranking_score": 4.956378221511841,
+          "retrieval_rank": 1
+        }
+      ],
+      "state": {
+        "query": "скока длится обучение",
+        "level": null,
+        "audience": null,
+        "intent": "duration",
+        "academic": true,
+        "updated": 1794841760.8682778
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "есть ли в общаге вайфай",
+    "expected_status": "answered",
+    "expected_id": "official-037",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "На странице сообщается о Wi-Fi во всех жилых комплексах.",
+      "sources": [
+        {
+          "id": "official-037",
+          "source_id": 7,
+          "question": "Есть ли Wi-Fi в студенческих домах AITU?",
+          "answer": "На странице сообщается о Wi-Fi во всех жилых комплексах.",
+          "category": "Общежитие",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/students-dormitory",
+          "source_kind": "official",
+          "checked_at": "2026-11-10",
+          "aliases": [
+            "Интернет в общаге",
+            "Есть ли вайфай в общежитии"
+          ],
+          "score": 4.936874866485596,
+          "ranking_score": 12.936874866485596,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-037",
+          "source_id": 7,
+          "question": "Есть ли Wi-Fi в студенческих домах AITU?",
+          "answer": "На странице сообщается о Wi-Fi во всех жилых комплексах.",
+          "category": "Общежитие",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/students-dormitory",
+          "source_kind": "official",
+          "checked_at": "2026-11-10",
+          "aliases": [
+            "Интернет в общаге",
+            "Есть ли вайфай в общежитии"
+          ],
+          "score": 4.936874866485596,
+          "ranking_score": 12.936874866485596,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-036",
+          "source_id": 7,
+          "question": "Есть ли прачечная в общежитии AITU?",
+          "answer": "Указаны комнаты со стиральными машинами, а также помещения для сушки и глажки белья.",
+          "category": "Общежитие",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/students-dormitory",
+          "source_kind": "official",
+          "checked_at": "2026-11-10",
+          "aliases": [
+            "Где постирать вещи в общаге",
+            "Есть ли стиральные машины в общежитии"
+          ],
+          "score": -3.4132115840911865,
+          "ranking_score": 2.5867884159088135,
+          "retrieval_rank": 2
+        },
+        {
+          "id": "legacy-235",
+          "source_id": 10,
+          "question": "Какие условия обеспечиваются для комфорта проживания студентов в общежитии?",
+          "answer": "Для комфорта проживания студентов в общежитии университета предусмотрены учебные комнаты, комнаты отдыха, кухни и столовые. Также общежитие оснащено прачечной с автоматическими стиральными машинами, сушильными и гладильными комнатами. Для студентов доступен интернет через Wi-Fi. Каждая комната оборудована кроватями, рабочими столами и шкафами.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -0.35656535625457764,
+          "ranking_score": 0.4434346437454224,
+          "retrieval_rank": 5
+        }
+      ],
+      "state": {
+        "query": "есть ли в общаге вайфай",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841760.9982495
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "как зарегистрироватся на ает",
+    "expected_status": "answered",
+    "expected_id": "official-012",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "На странице AET есть кнопка регистрации, ведущая на astanait.oes.kz. Доступные слоты открываются по месяцам.",
+      "sources": [
+        {
+          "id": "official-012",
+          "source_id": 2,
+          "question": "Где зарегистрироваться на AET?",
+          "answer": "На странице AET есть кнопка регистрации, ведущая на astanait.oes.kz. Доступные слоты открываются по месяцам.",
+          "category": "Экзамены",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Куда записаться на АЕТ",
+            "Сайт регистрации вступительного экзамена"
+          ],
+          "score": 5.38350248336792,
+          "ranking_score": 13.38350248336792,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-012",
+          "source_id": 2,
+          "question": "Где зарегистрироваться на AET?",
+          "answer": "На странице AET есть кнопка регистрации, ведущая на astanait.oes.kz. Доступные слоты открываются по месяцам.",
+          "category": "Экзамены",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Куда записаться на АЕТ",
+            "Сайт регистрации вступительного экзамена"
+          ],
+          "score": 5.38350248336792,
+          "ranking_score": 13.38350248336792,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-339",
+          "source_id": 10,
+          "question": "Каким образом происходит регистрация на AITU Excellence Test (АЕТ)?",
+          "answer": "Регистрация на AITU Excellence Test (АЕТ) происходит через сайт abitur.astanait.edu.kz. Если у абитуриента уже есть зарегистрированный аккаунт, можно перейти сразу к регистрации на экзамен. В противном случае, необходимо создать новый аккаунт, ввести личные данные, подтвердить желание получать информацию о поступлении, обучении, грантах и скидках. После корректного заполнения данных, на указанный номер телефона придет СМС с логином и паролем для входа на экзамен. Затем следует кликнуть на ссылку активации аккаунта, перейти на страницу входа, ввести ранее заполненные данные и зарегистрироваться на AITU Excellence Test.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": 4.60026216506958,
+          "ranking_score": 5.60026216506958,
+          "retrieval_rank": 4
+        },
+        {
+          "id": "official-011",
+          "source_id": 2,
+          "question": "Какое оборудование нужно для AET?",
+          "answer": "Нужен компьютер или ноутбук с веб-камерой. Перед экзаменом изучите инструкции по онлайн-прокторингу.",
+          "category": "Экзамены",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/aitu-excellence-test",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Можно пройти AET с телефона",
+            "Что нужно для онлайн тестирования АЕТ"
+          ],
+          "score": -3.0052309036254883,
+          "ranking_score": 1.2804833820887973,
+          "retrieval_rank": 14
+        }
+      ],
+      "state": {
+        "query": "как зарегистрироватся на ает",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841762.277707
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "на каком языке учатся",
+    "expected_status": "answered",
+    "expected_id": "official-003",
+    "passed": true,
+    "response": {
+      "status": "answered",
+      "answer": "Бакалавриат: Бакалаврские программы представлены как обучение на английском языке.\n\nМагистратура: Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+      "sources": [
+        {
+          "id": "official-003",
+          "source_id": 1,
+          "question": "На каком языке учатся бакалавры?",
+          "answer": "Бакалаврские программы представлены как обучение на английском языке.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "language",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Язык преподавания на бакалавриате",
+            "Учеба после школы на английском или русском"
+          ],
+          "score": 6.961935997009277,
+          "ranking_score": 14.961935997009277,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": 2.2867095470428467,
+          "ranking_score": 10.286709547042847,
+          "retrieval_rank": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": "official-003",
+          "source_id": 1,
+          "question": "На каком языке учатся бакалавры?",
+          "answer": "Бакалаврские программы представлены как обучение на английском языке.",
+          "category": "Обучение",
+          "level": "bachelor",
+          "audience": "general",
+          "intent": "language",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/bachelor",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Язык преподавания на бакалавриате",
+            "Учеба после школы на английском или русском"
+          ],
+          "score": 6.961935997009277,
+          "ranking_score": 14.961935997009277,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "official-013",
+          "source_id": 3,
+          "question": "Сколько длится обучение в магистратуре?",
+          "answer": "Страница магистратуры указывает двухлетнее обучение в смешанном формате с казахским, русским и английским языками.",
+          "category": "Магистратура",
+          "level": "master",
+          "audience": "general",
+          "intent": "duration|language|format",
+          "valid_year": "",
+          "status": "source_reviewed_ai",
+          "url": "https://astanait.edu.kz/ru/master",
+          "source_kind": "official",
+          "checked_at": "2026-11-09",
+          "aliases": [
+            "Срок и язык учебы в магистратуре",
+            "Сколько лет учиться после бакалавриата"
+          ],
+          "score": 2.2867095470428467,
+          "ranking_score": 10.286709547042847,
+          "retrieval_rank": 1
+        }
+      ],
+      "state": {
+        "query": "на каком языке учатся",
+        "level": null,
+        "audience": null,
+        "intent": "language",
+        "academic": true,
+        "updated": 1794841763.3650002
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "сколько стоит учеба",
+    "expected_status": "clarification",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "clarification",
+      "answer": "Уточните, пожалуйста: бакалавриат или магистратура? Если вы иностранный абитуриент, укажите это — тарифы отличаются.",
+      "sources": [],
+      "candidates": [],
+      "state": {
+        "query": "сколько стоит учеба",
+        "level": null,
+        "audience": null,
+        "intent": "cost",
+        "academic": true,
+        "updated": 1794841763.5011775
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "Какая погода завтра?",
+    "expected_status": "abstained",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "abstained",
+      "answer": "Не нашёл достаточно подходящего источника. Уточните тему, программу или вид экзамена. Для условий поступления: admission@astanait.edu.kz.",
+      "sources": [],
+      "candidates": [
+        {
+          "id": "legacy-016",
+          "source_id": 10,
+          "question": "График работы?",
+          "answer": "С понедельника по пятницу - 9:00 — 18:00, Обеденное время - 13:00 — 14:00",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -4.007552146911621,
+          "ranking_score": -0.007552146911621094,
+          "retrieval_rank": 1
+        },
+        {
+          "id": "legacy-001",
+          "source_id": 10,
+          "question": "Что такое Astana IT University (AITU / аиту)?",
+          "answer": "Astana IT University (AITU) — это высшее учебное заведение, расположенное в Нур-Султане (ранее известном как Астана), столице Казахстана. Университет был основан в 2019 году в рамках стратегии по развитию информационных технологий в Казахстане. Astana IT University предлагает программы бакалавриата и магистратуры в области информационных технологий, включая компьютерные науки, программирование, анализ данных, кибербезопасность и другие связанные области. Университет стремится подготовить высококвалифицированных специалистов, которые смогут успешно работать в индустрии информационных технологий и вносить вклад в технологическое развитие Казахстана. Astana IT University сотрудничает с ведущими компаниями и организациями в области информационных технологий, чтобы обеспечить студентам доступ к актуальным знаниям, профессиональным практикам и возможностям стажировки. Университет также активно участвует в научных исследованиях и инновационных проектах, сотрудничая с национальными и международными научными организациями. Astana IT University стремится стать ведущим учебным заведением в области информационных технологий в Казахстане и регионе Центральной Азии, предлагая качественное образование и способствуя развитию IT-сектора в стране.",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -4.577338218688965,
+          "ranking_score": -3.244004885355632,
+          "retrieval_rank": 3
+        },
+        {
+          "id": "legacy-193",
+          "source_id": 10,
+          "question": "Университет до скольки открыт?",
+          "answer": "В будние дни к 21:00 начинает закрываться. В выходные дни до 18-19:00",
+          "category": "Исходный FAQ",
+          "level": "any",
+          "audience": "general",
+          "intent": "other",
+          "valid_year": "",
+          "status": "unverified",
+          "url": "https://huggingface.co/datasets/Arailym-tleubayeva/AITUAdmissionsGuideDataset",
+          "source_kind": "dataset",
+          "checked_at": "",
+          "aliases": [],
+          "score": -6.0730814933776855,
+          "ranking_score": -5.850859271155463,
+          "retrieval_rank": 18
+        }
+      ],
+      "state": {
+        "query": "Какая погода завтра?",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841763.5012186
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "Назови мой пароль",
+    "expected_status": "abstained",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "abstained",
+      "answer": "У меня нет доступа к личным кабинетам, персональным данным и индивидуальному расписанию.",
+      "sources": [],
+      "candidates": [],
+      "state": {
+        "query": "Назови мой пароль",
+        "level": null,
+        "audience": null,
+        "intent": null,
+        "academic": false,
+        "updated": 1794841764.4398816
+      },
+      "method": "verified_hybrid"
+    }
+  },
+  {
+    "question": "Сколько стоит учеба в 2035 году?",
+    "expected_status": "abstained",
+    "expected_id": null,
+    "passed": true,
+    "response": {
+      "status": "abstained",
+      "answer": "Для указанного года в базе нет подтверждённых условий. Уточните учебный год или обратитесь в приёмную комиссию.",
+      "sources": [],
+      "candidates": [],
+      "state": {
+        "query": "Сколько стоит учеба в 2035 году?",
+        "level": null,
+        "audience": null,
+        "intent": "cost",
+        "academic": true,
+        "updated": 1794841764.4399304
+      },
+      "method": "verified_hybrid"
+    }
+  }
+]

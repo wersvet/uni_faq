@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+artifacts/cache/
+artifacts/logs/
+.build/
+*.zip
+
+.chart-data-*/
